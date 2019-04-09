@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MITRAIS\\WORKSPACE\\DotNet\\unCalculator\\unCalculator.csproj": {}
+  },
+  "projects": {
+    "E:\\MITRAIS\\WORKSPACE\\DotNet\\unCalculator\\unCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MITRAIS\\WORKSPACE\\DotNet\\unCalculator\\unCalculator.csproj",
+        "projectName": "unCalculator",
+        "projectPath": "E:\\MITRAIS\\WORKSPACE\\DotNet\\unCalculator\\unCalculator.csproj",
+        "packagesPath": "C:\\Users\\Reyhan_FR879\\.nuget\\packages\\",
+        "outputPath": "E:\\MITRAIS\\WORKSPACE\\DotNet\\unCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Reyhan_FR879\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

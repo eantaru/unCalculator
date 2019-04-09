@@ -1,0 +1,14 @@
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\unCalculator.exe
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\unCalculator.deps.json
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\unCalculator.runtimeconfig.json
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\unCalculator.runtimeconfig.dev.json
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\unCalculator.dll
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Release\netcoreapp2.2\win10-x64\unCalculator.pdb
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Release\netcoreapp2.2\win10-x64\unCalculator.csprojAssemblyReference.cache
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Release\netcoreapp2.2\win10-x64\unCalculator.csproj.CoreCompileInputs.cache
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Release\netcoreapp2.2\win10-x64\unCalculator.AssemblyInfoInputs.cache
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Release\netcoreapp2.2\win10-x64\unCalculator.AssemblyInfo.cs
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Release\netcoreapp2.2\win10-x64\unCalculator.dll
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Release\netcoreapp2.2\win10-x64\unCalculator.pdb

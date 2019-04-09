@@ -1,0 +1,11 @@
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Debug\netcoreapp2.2\unCalculator.deps.json
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Debug\netcoreapp2.2\unCalculator.runtimeconfig.json
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Debug\netcoreapp2.2\unCalculator.runtimeconfig.dev.json
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Debug\netcoreapp2.2\unCalculator.dll
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\bin\Debug\netcoreapp2.2\unCalculator.pdb
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Debug\netcoreapp2.2\unCalculator.csprojAssemblyReference.cache
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Debug\netcoreapp2.2\unCalculator.csproj.CoreCompileInputs.cache
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Debug\netcoreapp2.2\unCalculator.AssemblyInfoInputs.cache
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Debug\netcoreapp2.2\unCalculator.AssemblyInfo.cs
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Debug\netcoreapp2.2\unCalculator.dll
+E:\MITRAIS\WORKSPACE\DotNet\unCalculator\obj\Debug\netcoreapp2.2\unCalculator.pdb
