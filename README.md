@@ -23,7 +23,7 @@ step by step how I produce:
 2. Split string into 2 by separating by dot ".", first string is dollar and second is cent 
 
 
-![alt source](https://minecraft-statistic.net/en/og/player/adfaf.png)
+![alt source](https://raw.githubusercontent.com/eantaru/unCalculator/master/names_of_large_numbers.png)
 
 
 
