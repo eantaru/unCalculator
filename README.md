@@ -2,7 +2,14 @@
 
 unCalculator is not a calculator, it's just conversion from numbers to human readable.
 
+## Needed
 ```
+In your system should have net framework (4.7.x or newest), you may download from
+https://dotnet.microsoft.com/download
+or directly
+https://dotnet.microsoft.com/download/thank-you/net472
+```
+
 ## How to use
 - open cmd/powershell
 - go to root project
