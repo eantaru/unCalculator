@@ -11,6 +11,7 @@ https://dotnet.microsoft.com/download/thank-you/net472
 ```
 
 ## How to use
+```
 - open cmd/powershell
 - go to root project
 - run: .\bin\Release\netcoreapp2.2\win10-x64\unCalculator
