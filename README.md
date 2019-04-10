@@ -6,7 +6,7 @@ unCalculator is not a calculator, it's just conversion from numbers to human rea
 ## How to use
 - open cmd/powershell
 - go to root project
-- run: `.\bin\Release\netcoreapp2.2\win10-x64\unCalculator`
+- run: .\bin\Release\netcoreapp2.2\win10-x64\unCalculator
 
 - instant
 .\bin\Release\netcoreapp2.2\win10-x64\unCalculator
